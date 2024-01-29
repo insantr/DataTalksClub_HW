@@ -272,3 +272,4 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
+/01-docker/ny_taxi_postgres_data/
