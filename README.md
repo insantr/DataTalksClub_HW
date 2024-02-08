@@ -6,7 +6,7 @@ This repository contains my homework submissions for the Data Engineering course
 ## Week 1:
 
 ### 01-docker
-It includes Docker configurations and scripts to ingest data into a PostgreSQL database and run SQL queries for analysis.
+It includes Docker configurations and scripts to ingest data into a PostgresSQL database and run SQL queries for analysis.
 
 ### 01-terraform
 Terraform configuration
@@ -17,6 +17,9 @@ Terraform configuration
 Construct an ETL pipeline that loads the data, performs some transformations, and writes the data to a database (and Google Cloud!).
 
 ## Week 3:
+
+### 03-workshop
+Demonstrates the use of `dlt` and `duckdb` libraries for data processing and analysis, as well as the practice of working with generators in Python.
 
 ### 03-data-warehouse
 Create and modify tables in BigQuery for the 2022 Green Taxi Trip Records data, answer specific questions, and optimize table structure for query performance.
